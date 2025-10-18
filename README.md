@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hola, soy José María Sánchez
 
-<!--
-**josefrlnc01/josefrlnc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **desarrollador frontend** enfocado en crear interfaces limpias, funcionales y con una experiencia de usuario fluida.  
+La curiosidad y la constancia me mueven: cada línea de código es una oportunidad para mejorar y entender más a fondo cómo funcionan las cosas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mí
+
+- La **resiliencia, el esfuerzo y la perseverancia** son los pilares de mi forma de trabajar.  
+- Disfruto convertir ideas en productos reales, cuidando tanto el detalle visual como la arquitectura.  
+- Me formo constantemente en desarrollo web, optimización, animaciones y nuevas tecnologías.  
+- Experiencia construyendo proyectos desde cero con herramientas modernas del ecosistema JavaScript.
+
+---
+
+## 🛠 Tecnologías que utilizo
+
+| Categoría | Tecnologías |
+|------------|--------------|
+| **Frontend** | HTML, CSS, JavaScript, React, TypeScript, TailwindCSS, Vite, Next.js |
+| **Animaciones / UI** | GSAP, Lottie |
+| **Backend / Servicios** | Firebase |
+| **Entorno / Herramientas** | GitHub, Linux |
+
+---
+
+## 🚀 Proyecto destacado
+
+### **Ubifind**
+Aplicación creada para explorar nuevos lugares y mostrar el potencial del software sin frameworks.  
+Desarrollada con **HTML, CSS, JavaScript, Firebase y Capacitor**, busca demostrar cómo la base pura del desarrollo puede generar experiencias completas.
+
+---
+
+## 🎓 Formación y aprendizaje
+
+Me he formado con cursos y recursos de plataformas como:
+
+- **Udemy:** Universidad JavaScript  
+- **Platzi:** Fundamentos de IA, Machine Learning, generación de imágenes con IA  
+- **YouTube / Open Source:** MiduDev, MoureDev, SoyDalto  
+- **Documentación técnica:** MDN Web Docs  
+- **Práctica y lógica:** Codewars, LeetCode
+
+---
+
+## 📫 Conecta conmigo
+
+- 🌐 [Portfolio](https://josesanchez.site)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-maria-s%C3%A1nchez/)  
+- 🐙 [GitHub](https://github.com/josefrlnc01)  
+- 📧 (tu correo si quieres incluirlo)
+
+---
+
+> “El código bien hecho no solo resuelve un problema, también cuenta una historia sobre quién lo escribió.”
+
