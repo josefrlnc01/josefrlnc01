@@ -1,6 +1,6 @@
 # 👋 Hola, soy José María Sánchez
 
-Soy **desarrollador frontend** enfocado en crear interfaces limpias, funcionales y con una experiencia de usuario fluida.  
+Soy **desarrollador frontend** enfocado en crear interfaces limpias, funcionales y cuidando de una experiencia de usuario fluida.  
 La curiosidad y la constancia me mueven en mi camino para formarme como desarrollador.
 
 ---
