@@ -1,13 +1,13 @@
 # 👋 Hola, soy José María Sánchez
 
-Soy **desarrollador frontend** enfocado en crear interfaces limpias, funcionales y cuidando de una experiencia de usuario fluida.  
-La curiosidad y la constancia me mueven en mi camino para formarme como desarrollador.
+Tengo 24 años y soy desarrollador de software. Me enfoco en crear interfaces limpias, funcionales y cuidando de una experiencia de usuario fluida.  
+La curiosidad y la constancia me mueven en mi camino para formarme como programador.
 
 ---
 
 ## 💡 Sobre mí
 
-- La **resiliencia, el esfuerzo y la perseverancia** son los pilares de mi forma de trabajar.  
+- La resiliencia, el esfuerzo y la perseverancia son los pilares de mi forma de trabajar.  
 - Disfruto convertir ideas en productos reales, cuidando tanto el detalle visual como la arquitectura.  
 - Me formo constantemente en desarrollo web, optimización, animaciones y nuevas tecnologías.  
 - Experiencia construyendo proyectos desde cero con herramientas modernas del ecosistema JavaScript.
@@ -20,7 +20,7 @@ La curiosidad y la constancia me mueven en mi camino para formarme como desarrol
 |------------|--------------|
 | **Frontend** | HTML, CSS, JavaScript, React, TypeScript, TailwindCSS, Vite, Next.js |
 | **Animaciones / UI** | GSAP, Lottie |
-| **Backend / Servicios** | Firebase |
+| **Backend / Servicios** | Firebase | SQL | 
 | **Entorno / Herramientas** | GitHub, Linux |
 
 ---
