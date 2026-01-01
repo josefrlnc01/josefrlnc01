@@ -20,7 +20,7 @@ La curiosidad y la constancia me mueven en mi camino para formarme como programa
 |------------|--------------|
 | **Frontend** | HTML, CSS, JavaScript, React, TypeScript, TailwindCSS, Vite, Next.js |
 | **Animaciones / UI** | GSAP, Lottie |
-| **Backend / Servicios** | Firebase | SQL | 
+| **Backend / Servicios** | Firebase, SQL | 
 | **Entorno / Herramientas** | GitHub, Linux |
 
 ---
