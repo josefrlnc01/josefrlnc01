@@ -46,11 +46,10 @@ Me he formado con cursos y recursos de plataformas como:
 ---
 
 ## 📫 Conecta conmigo
-
-- 🌐 [Portfolio](https://josesanchez.site)  
+ 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-maria-s%C3%A1nchez/)  
-- 🐙 [GitHub](https://github.com/josefrlnc01)  
-- 📧 (tu correo si quieres incluirlo)
+ 
+- 📧 <a href="mailto:josefrlnc01@gmail.com"> Enviar correo </a>
 
 ---
 
