@@ -53,5 +53,4 @@ Me he formado con cursos y recursos de plataformas como:
 
 ---
 
-> “El código bien hecho no solo resuelve un problema, también cuenta una historia sobre quién lo escribió.”
 
