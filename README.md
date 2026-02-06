@@ -1,11 +1,9 @@
 # 👋 Hola, soy José María Sánchez
 
 Tengo 24 años y soy desarrollador de software. Me enfoco en crear interfaces limpias, funcionales y cuidando de una experiencia de usuario fluida.  
-La curiosidad y la constancia me mueven en mi camino para formarme como programador.
 
----
 
-## 💡 Sobre mí
+## Sobre mí
 
 - La resiliencia, el esfuerzo y la perseverancia son los pilares de mi forma de trabajar.  
 - Disfruto convertir ideas en productos reales, cuidando tanto el detalle visual como la arquitectura.  
@@ -14,7 +12,7 @@ La curiosidad y la constancia me mueven en mi camino para formarme como programa
 
 ---
 
-## 🛠 Tecnologías que utilizo
+## Tecnologías que utilizo
 
 | Categoría | Tecnologías |
 |------------|--------------|
@@ -25,7 +23,7 @@ La curiosidad y la constancia me mueven en mi camino para formarme como programa
 
 ---
 
-## 🚀 Proyecto destacado
+## Proyecto destacado
 
 ### **Ubifind**
 Aplicación creada para explorar nuevos lugares y mostrar el potencial del software sin frameworks.  
@@ -33,7 +31,7 @@ Desarrollada con **HTML, CSS, JavaScript, Firebase y Capacitor**, busca demostra
 
 ---
 
-## 🎓 Formación y aprendizaje
+## Formación y aprendizaje
 
 Me he formado con cursos y recursos de plataformas como:
 
@@ -45,7 +43,7 @@ Me he formado con cursos y recursos de plataformas como:
 
 ---
 
-## 📫 Conecta conmigo
+## Conecta conmigo
  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-maria-s%C3%A1nchez/)  
  
