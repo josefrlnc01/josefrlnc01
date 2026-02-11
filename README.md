@@ -18,30 +18,23 @@ Tengo 24 años y soy desarrollador de software. Me enfoco en crear interfaces li
 |------------|--------------|
 | **Frontend** | HTML, CSS, JavaScript, React, TypeScript, TailwindCSS, Vite |
 | **Animaciones / UI** | GSAP, Lottie |
-| **Backend / Servicios** | Firebase, SQL | 
+| **Backend / Servicios** | Firebase, SQL, MongoDB | 
 | **Entorno / Herramientas** | GitHub, Linux |
 
----
-
-## Proyecto destacado
-
-### **Ubifind**
-Aplicación creada para explorar nuevos lugares y mostrar el potencial del software sin frameworks.  
-Desarrollada con **HTML, CSS, JavaScript, Firebase y Capacitor**, busca demostrar cómo la base pura del desarrollo puede generar experiencias completas.
-
----
 
 ## Formación y aprendizaje
 
-Me he formado con cursos y recursos de plataformas como:
-
+Me he formado con recursos como:
+- **Libros:**
+- Fundamentos de programación (Luis Joyanes Aguilar).
+- Manual de JavaScript (Miguel Ángel Álvarez, Manu Gutiérrez).
+- El gran libro de HTML, CSS y JavaScript (J.D. Gauchat)
 - **Udemy:** Universidad JavaScript  
 - **Platzi:** Fundamentos de IA, Machine Learning, generación de imágenes con IA  
 - **YouTube / Open Source:** MiduDev, MoureDev, SoyDalto  
 - **Documentación técnica:** MDN Web Docs  
-- **Práctica y lógica:** Codewars, LeetCode
+- **Práctica y lógica:** Codewars, LeetCode, AdventJS
 
----
 
 ## Conecta conmigo
  
