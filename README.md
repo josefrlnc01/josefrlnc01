@@ -18,7 +18,7 @@ Tengo 24 años y soy desarrollador de software. Me enfoco en crear interfaces li
 |------------|--------------|
 | **Frontend** | HTML, CSS, JavaScript, React, TypeScript, TailwindCSS, Vite |
 | **Animaciones / UI** | GSAP, Lottie |
-| **Backend / Servicios** | Firebase, SQL, MongoDB | 
+| **Backend / Servicios** | Node, MongoDB | 
 | **Entorno / Herramientas** | GitHub, Linux |
 
 
